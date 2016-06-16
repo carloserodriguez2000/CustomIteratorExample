@@ -9,4 +9,3 @@ C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\Custom
 C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.pdb
 C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.exe
 C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.pdb
-C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.csprojResolveAssemblyReference.cache

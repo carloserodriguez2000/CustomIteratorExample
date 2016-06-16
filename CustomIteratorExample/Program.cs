@@ -10,7 +10,33 @@ namespace CustomIteratorExample
     {
         static void Main(string[] args)
         {
-            IterableClass03 test = new IterableClass03();
+            List<string> firstNames = new List<string>() { "Adam", "Mike", "Andrew" };
+            List<string> lastNames = new List<string>() { "Martell", "Terrill", "Llewellyn" };
+
+            IterableClass04 test = new IterableClass04(firstNames, lastNames);
+            foreach (var name in test)
+            {
+                Console.Write(name);
+            }
+            Console.ReadLine();
+        }
+
+        static public void AdamSample()
+        {
+            IterableClass test = new IterableClass();
+            foreach (var name in test)
+            {
+                Console.Write(name);
+            }
+            Console.ReadLine();
+        }
+
+        static public void CarlosSample()
+        {
+            List<string> firstNames = new List<string>() { "Adam", "Mike", "Andrew" };
+            List<string> lastNames = new List<string>() { "Martell", "Terrill", "Llewellyn" };
+
+            IterableClass04 test = new IterableClass04(firstNames, lastNames);
             foreach (var name in test)
             {
                 Console.Write(name);
