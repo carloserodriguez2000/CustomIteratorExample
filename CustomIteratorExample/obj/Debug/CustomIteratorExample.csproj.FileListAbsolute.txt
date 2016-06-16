@@ -1,0 +1,12 @@
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.exe.config
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.exe
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.pdb
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.csprojResolveAssemblyReference.cache
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.exe
+c:\users\hobbitmafia\Dropbox\C#\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\bin\Debug\CustomIteratorExample.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\CustomIteratorExample\CustomIteratorExample\obj\Debug\CustomIteratorExample.csprojResolveAssemblyReference.cache
