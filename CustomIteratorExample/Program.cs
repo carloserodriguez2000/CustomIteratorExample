@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CustomIteratorExample
 {
@@ -10,15 +7,12 @@ namespace CustomIteratorExample
     {
         static void Main(string[] args)
         {
-            List<string> firstNames = new List<string>() { "Adam", "Mike", "Andrew" };
-            List<string> lastNames = new List<string>() { "Martell", "Terrill", "Llewellyn" };
+            AdamSample();
+            Console.WriteLine(" ");
+            CarlosSample1();
+            Console.WriteLine(" ");
+            CarlosSample2();
 
-            IterableClass04 test = new IterableClass04(firstNames, lastNames);
-            foreach (var name in test)
-            {
-                Console.Write(name);
-            }
-            Console.ReadLine();
         }
 
         static public void AdamSample()
@@ -31,12 +25,23 @@ namespace CustomIteratorExample
             Console.ReadLine();
         }
 
-        static public void CarlosSample()
+        static public void CarlosSample1()
         {
             List<string> firstNames = new List<string>() { "Adam", "Mike", "Andrew" };
             List<string> lastNames = new List<string>() { "Martell", "Terrill", "Llewellyn" };
 
             IterableClass04 test = new IterableClass04(firstNames, lastNames);
+            foreach (var name in test)
+            {
+                Console.Write(name);
+            }
+            Console.ReadLine();
+        }
+
+        static public void CarlosSample2()
+        {
+        
+            IterableClass02 test = new IterableClass02();
             foreach (var name in test)
             {
                 Console.Write(name);
